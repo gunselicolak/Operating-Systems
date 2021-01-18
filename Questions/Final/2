@@ -1,0 +1,19 @@
+2.	Manyetik diskinizin 5000 tane silindiri olduğunu düşünün. Bu silindirler 0’dan 4999’a kadar numaralandırılmış olsun. 
+Okuma/yazma kafası şu anda 143’üncü silindirde okuma işlemi gerçekleştirmektedir. Bundan bir önceki okuma işlemi ise 125’inci silindirde gerçekleştirilmiştir. 
+Bekleyen istekler FIFO sırasına göre 86, 1470, 913, 1774, 948, 1509,1022,1750 ve 130’dur.  Disk okuma/yazma kafasının şu andaki pozisyonunda olduğunu düşünerek
+tüm bu isteklerin yerine getirilmesi için aşağıdaki disk-scheduling algoritmaları kullanıldığında, disk okuma/yazma kafasının toplamda ne kadar hareket etmesi gerekir 
+(silindir sayısı cinsinden), silindirler hangi sıra ile okunur? 
+a.	FCFS
+
+
+
+
+b.	SSTF
+
+c.	SCAN
+
+d.	LOOK
+
+
+e.	C-SCAN
+
